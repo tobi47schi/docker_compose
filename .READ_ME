@@ -1,0 +1,7 @@
+# Setup: 
+- Projekt in das selbe Directory wie Microservices ziehen.
+- Jeder Microservice muss Dockerfile haben
+
+# Start:
+- docker-compose up
+- docker-compose stop
